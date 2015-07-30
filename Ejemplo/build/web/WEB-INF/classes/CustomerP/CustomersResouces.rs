@@ -1,0 +1,2 @@
+CustomerP.CustomersResources
+CustomerP.CustomersResource
